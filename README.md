@@ -40,7 +40,7 @@ The project is built in modules. Status is marked as the build progresses.
 - [x] **Module 2 — News Collector.** Finance-focused news headlines per ticker via NewsAPI.
 - [x] **Module 3 — Social/News Collector.** A second stream of finance headlines per ticker via Yahoo Finance (yfinance), used after Reddit and StockTwits API access proved closed.
 - [x] **Module 4 — Sentiment Scorer.** Scores every collected headline with pre-trained FinBERT (positive / negative / neutral).
-- [ ] **Module 5 — Technical Indicators.** RSI, MACD, moving averages, and volatility from price data.
+- [x] **Module 5 — Technical Indicators.** RSI, MACD, moving averages, Bollinger Bands, and volatility computed from price data with the ta library.
 - [ ] **Module 6 — Feature Builder.** Combines sentiment and indicators into a labelled training table.
 - [ ] **Module 7 — Prediction Model.** XGBoost model predicting short-term up or down movement.
 - [ ] **Module 8 — Dashboard.** Streamlit interface showing sentiment and signals per stock.
@@ -68,7 +68,8 @@ stock_sentiment_and_trading/
 │   ├── news_collector.py     Module 2 — news headlines via NewsAPI
 │   └── social_collector.py   Module 3 — Yahoo Finance news via yfinance
 ├── processing/
-│   └── sentiment_scorer.py   Module 4 — FinBERT sentiment scoring
+│   ├── sentiment_scorer.py   Module 4 — FinBERT sentiment scoring
+│   └── indicators.py         Module 5 — technical indicators via ta
 ├── data/
 │   └── raw/                  Collected data (kept local, not committed)
 ├── requirements.txt
