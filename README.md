@@ -42,7 +42,7 @@ The project is built in modules. Status is marked as the build progresses.
 - [x] **Module 4 — Sentiment Scorer.** Scores every collected headline with pre-trained FinBERT (positive / negative / neutral).
 - [x] **Module 5 — Technical Indicators.** RSI, MACD, moving averages, Bollinger Bands, and volatility computed from price data with the ta library.
 - [x] **Module 6 — Feature Builder.** Merges indicators and a sentiment signal into one table per stock, labelled with next-day up/down movement.
-- [ ] **Module 7 — Prediction Model.** XGBoost model predicting short-term up or down movement.
+- [x] **Module 7 — Prediction Model.** Compares XGBoost, Random Forest, and Logistic Regression on a 3-day horizon with a time-based split. Best model beats baseline; absolute accuracy stays near coin-flip, the honest reality of short-term price prediction.
 - [ ] **Module 8 — Dashboard.** Streamlit interface showing sentiment and signals per stock.
 - [ ] **Module 9 — Deploy (free).** Live public app on Streamlit Community Cloud.
 
@@ -71,6 +71,8 @@ stock_sentiment_and_trading/
 │   ├── sentiment_scorer.py   Module 4 — FinBERT sentiment scoring
 │   ├── indicators.py         Module 5 — technical indicators via ta
 │   └── feature_builder.py    Module 6 — merge features + up/down label
+├── models/
+│   └── train_model.py        Module 7 — train and compare prediction models
 ├── data/
 │   └── raw/                  Collected data (kept local, not committed)
 ├── requirements.txt
