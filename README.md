@@ -96,7 +96,13 @@ The project is built in modules. Status is marked as the build progresses.
 
 **Stretch — real infrastructure**
 
-- [ ] **Module 14 — Real-Time Streaming.** Live ingestion with Apache Kafka in Docker.
+- [x] **Module 14 — Real-Time Streaming.** A single-node Apache Kafka broker (KRaft mode, official `apache/kafka:3.9.0` image, no ZooKeeper needed) running in Docker, with an independent producer and consumer.
+
+  The producer fetches live prices for all 7 tickers every 30s and publishes them to a `stock-prices` topic. The consumer listens independently and logs every message as it arrives — verified end to end over an 11-batch, ~7-minute run with matching timestamps on both sides, confirming genuine producer → broker → consumer delivery rather than two scripts coincidentally agreeing.
+
+  Honest note: at this project's scale, a simple scheduled script would do the same job more simply. Kafka's real value is in decoupling — multiple independent consumers (a dashboard, an alerter, a retrainer) could all read the same stream without knowing about each other, and the broker buffers messages so a consumer that's briefly down doesn't lose data. This module demonstrates that pattern and the underlying infrastructure rather than a scale that strictly requires it.
+
+  Run: `docker compose up -d` to start the broker, then `python -m streaming.consumer` and `python -m streaming.producer` in separate terminals.
 - [ ] **Module 15 — AWS Deployment.** Containerised API deployed to AWS.
 - [ ] **Module 16 — Capstone.** The full system assembled, documented, and deployed.
 
