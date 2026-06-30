@@ -1,0 +1,57 @@
+ticker,source_file,sentiment,confidence,headline
+AAPL,AAPL_news.csv,neutral,0.8444,Why is Apple asking me to pay more for Big Tech’s AI obsession?
+AAPL,AAPL_news.csv,neutral,0.945,"Prime Day Means Apple Deals on iPad, iPhone Cases, MagSafe Accessories, and More"
+AAPL,AAPL_news.csv,neutral,0.8789,Nest’s quest to fix your thermostat
+AAPL,AAPL_news.csv,neutral,0.8913,"While Jony Ive Is Designing Ferraris, Another Apple Designer Is Thinking Different About the Golf Cart"
+AAPL,AAPL_news.csv,negative,0.9336,Apple Hikes Prices On Almost Everything Except iPhones
+AAPL,AAPL_news.csv,neutral,0.7433,Apple Seeds New watchOS 27 Beta for Apple Watch Ultra 3
+AAPL,AAPL_news.csv,negative,0.7651,iPhone 18 Pro and Foldable iPhone Tipped to Get Price Hikes Too
+AAPL,AAPL_news.csv,neutral,0.6214,Apple’s latest AirTags are cheaper than ever for Prime Day
+AAPL,AAPL_news.csv,neutral,0.9395,Apple Invites App Gets Co-Hosting
+AAPL,AAPL_news.csv,negative,0.9277,The MacRumors Show: iPhone 18 Pro Has a Pricing Problem
+AAPL,AAPL_news.csv,neutral,0.6478,Foldable iPhone 'Ultra' Still on Track for September Debut
+AAPL,AAPL_news.csv,positive,0.5153,Apple Seeds watchOS 27 Beta 2 to Developers
+AAPL,AAPL_news.csv,positive,0.9394,Micron exec suggests Apple’s aggressive purchasing tactics helped fuel memory shortage
+AAPL,AAPL_news.csv,negative,0.5777,Micron Suggests Apple Helped Cause Memory Price Crisis
+AAPL,AAPL_news.csv,positive,0.9062,"iPhone Ultra 2 Gets Green Light for Development, Says Leaker"
+AAPL,AAPL_news.csv,neutral,0.9439,iPhone 18: Everything We Know About Apple's Biggest Updates
+AAPL,AAPL_news.csv,neutral,0.9083,Apple's Price Hikes Aren't Just an AI Problem
+AAPL,AAPL_news.csv,neutral,0.889,How Domo went from a $2.8 billion darling to fighting for its survival
+AAPL,AAPL_news.csv,neutral,0.8347,19 great Prime Day deals on our favorite charging gear
+AAPL,AAPL_news.csv,neutral,0.9436,Apple Watch Ultra 4 Expected Later This Year
+AAPL,AAPL_news.csv,neutral,0.7354,iPhone 18 Pro and Pro Max May See $200 Price Increase
+AAPL,AAPL_news.csv,neutral,0.8915,Ad-free streaming is a luxury now
+AAPL,AAPL_news.csv,neutral,0.9337,Every New AirPods Feature in iOS 27
+AAPL,AAPL_news.csv,neutral,0.7768,"Apple just raised prices on its site, but you can still snag these Prime Day deals before Amazon follows suit"
+AAPL,AAPL_news.csv,neutral,0.9308,iOS 27 Beta 2 Adds Inline Replies to iPhone-to-Android RCS Chats
+AAPL,AAPL_news.csv,neutral,0.856,Best Prime Day Fitness Tech Deals (2026)
+AAPL,AAPL_news.csv,neutral,0.9052,The 10 Best Apple Prime Day Deals You Can Get for Under $100
+AAPL,AAPL_news.csv,neutral,0.9277,Apple Releases Updated AirPods Beta Firmware With iOS 27 Features
+AAPL,AAPL_news.csv,neutral,0.7889,Google Lowering Play Store Fees and Allowing Alternative Payments Worldwide
+AAPL,AAPL_news.csv,neutral,0.7714,Apple Seeds iOS 27 and iPadOS 27 Second Betas to Developers
+AAPL,AAPL_news.csv,positive,0.8673,Apple TV and HomePod Just Went Up in Price Amid Wait for New Models
+AAPL,AAPL_news.csv,neutral,0.8865,The $999.99 iPhone app that did absolutely nothing sold 8 copies before Apple killed it
+AAPL,AAPL_news.csv,neutral,0.6918,It's official: your Mac and iPad just got more expensive
+AAPL,AAPL_news.csv,neutral,0.7584,Apple Vision Pro Just Got Even More Expensive
+AAPL,AAPL_news.csv,negative,0.863,Switching from iPhone just got easier as the Nothing Phone 4a Pro just hit its lowest price ever with this anti-Prime Day deal
+AAPL,AAPL_news.csv,neutral,0.9264,Apple’s 2026 OLED lineup will reportedly rely entirely on Samsung and LG
+AAPL,AAPL_news.csv,positive,0.8288,iOS 27 Wallet App Gets 7 New Features
+AAPL,AAPL_news.csv,positive,0.8451,Prime Day Brings Major Deals on Headphones and Speakers From Popular Brands
+AAPL,AAPL_news.csv,neutral,0.4679,Apple's £3 Billion UK iCloud Case Cleared for Trial
+AAPL,AAPL_news.csv,neutral,0.7747,23 Walmart Deals We Like Better Than That Other Sale Happening Right Now
+AAPL,AAPL_news.csv,neutral,0.7302,Meta Launches Its Own $299 Smart Glasses Ahead of Apple's Debut
+AAPL,AAPL_news.csv,negative,0.9546,"Prime Day's Final Hours Bring Rare Low Prices on AirPods, Apple Watches, and More"
+AAPL,AAPL_news.csv,neutral,0.8159,iPhone user? This Prime Day Pixel deal will convince you to switch to Android
+AAPL,AAPL_news.csv,neutral,0.7946,Amazon and Best Buy Still Offering Pre-Hike Prices on iPads and Macs
+AAPL,AAPL_news.csv,neutral,0.9234,21 Prime Day deals Verge readers are buying right now
+AAPL,AAPL_news.csv,neutral,0.397,Apple Seemingly Killed Siri AI Waitlist Workaround in macOS 27 Beta 2
+AAPL,AAPL_social.csv,neutral,0.9123,Why Samsung & SK Hynix are investing so much in South Korea's AI build-out
+AAPL,AAPL_social.csv,negative,0.9696,'Magnificent 7' stocks are having a dreadful year
+AAPL,AAPL_social.csv,neutral,0.7723,Google and Tesla Wrap Up a Magnificent Day
+AAPL,AAPL_social.csv,positive,0.8909,Amazon Stock Climbs During Strong Day For Magnificent Seven
+AAPL,AAPL_social.csv,neutral,0.9156,Why Apple Wants To Use Banned Chinese Memory Chips
+AAPL,AAPL_social.csv,positive,0.6047,"Tesla Leads Magnificent Seven Recovery, Analysts Chime In On Deliveries"
+AAPL,AAPL_social.csv,positive,0.4732,Apple's China Memory Push Draws Scrutiny
+AAPL,AAPL_social.csv,neutral,0.9243,Dan Ives Says the $3 Trillion Tech Wipeout Is a Buying Opportunity. Here’s His Case
+AAPL,AAPL_social.csv,negative,0.7033,"Alphabet shares rise on Dow debut, Verizon falls after index exit"
+AAPL,AAPL_social.csv,positive,0.7291,A Potential SpaceX Mobile Deal Makes Charter One of Today’s Top S&P 500 Stocks

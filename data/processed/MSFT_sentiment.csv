@@ -1,0 +1,61 @@
+ticker,source_file,sentiment,confidence,headline
+MSFT,MSFT_news.csv,neutral,0.9085,"Bill Ackman, David Tepper, and other billionaire fund managers are quietly piling into Amazon"
+MSFT,MSFT_news.csv,neutral,0.8444,Why is Apple asking me to pay more for Big Tech’s AI obsession?
+MSFT,MSFT_news.csv,neutral,0.889,How Domo went from a $2.8 billion darling to fighting for its survival
+MSFT,MSFT_news.csv,neutral,0.5966,"Europeans Are Buying Teslas Again, Surrendering the Easiest Front in the War on American Big Tech"
+MSFT,MSFT_news.csv,neutral,0.8887,Microsoft's Satya Nadella says every company should build its own AI model
+MSFT,MSFT_news.csv,neutral,0.9083,Apple's Price Hikes Aren't Just an AI Problem
+MSFT,MSFT_news.csv,negative,0.9139,Microsoft Has Fallen 25% This Year: What Could Push MSFT Back to $500?
+MSFT,MSFT_news.csv,negative,0.7049,Companies Warn RAM Prices Will Keep Spiking At Least Through 2028
+MSFT,MSFT_news.csv,neutral,0.856,Forget Apple. Amazon just made AI a lot more expensive.
+MSFT,MSFT_news.csv,negative,0.9523,SpaceX shares drop below debut price before jumping amid $600bn sell-off
+MSFT,MSFT_news.csv,neutral,0.834,European Commission lines up Amazon and Microsoft for cloud gatekeeper status
+MSFT,MSFT_news.csv,neutral,0.8068,"Microsoft Clarity Now Flags Bots That Ignore Robots.txt via @sejournal, @MattGSouthern"
+MSFT,MSFT_news.csv,negative,0.9016,Microsoft (MSFT) Faces Shareholder Lawsuit; TD Cowen Maintains Buy Rating
+MSFT,MSFT_news.csv,positive,0.9122,"NVIDIA claims its 'next‑gen AI infrastructure' offers a fix for data centers’ insatiable thirst — ""The water consumption challenge for data centers is largely solved."""
+MSFT,MSFT_news.csv,positive,0.9302,Chevron signs 20-year power agreement with Microsoft for West Texas data center
+MSFT,MSFT_news.csv,neutral,0.9019,"Reid Hoffman says SpaceX ‘isn’t an AI company,’ xAI is ‘a complete train wreck’—and there’s room for both OpenAI and Anthropic"
+MSFT,MSFT_news.csv,neutral,0.8861,3 No-Brainer Stocks to Buy in June and Hold Forever
+MSFT,MSFT_news.csv,positive,0.9522,"Micron tops Q3 earnings estimates, offers better-than-expected outlook and declares dividend"
+MSFT,MSFT_news.csv,negative,0.7585,Nobel laureate economist warns AI jobs apocalypse fears could become a self-fulfilling prophesy
+MSFT,MSFT_news.csv,negative,0.8284,"Man, It’s Going To Get So Much Worse Before It Gets Better"
+MSFT,MSFT_news.csv,negative,0.828,Microsoft's Boring Stock Story May Be Its Biggest Strength
+MSFT,MSFT_news.csv,neutral,0.7734,"""Great games are culture, and culture is entertainment"": Xbox CEO says Call of Duty is larger than the MCU, states there's ""more appetite"" for Xbox multimedia"
+MSFT,MSFT_news.csv,neutral,0.9365,Valve Wants You To Know The Steam Machine Isn’t A Video Game Console: ‘We Think Of It As An Extension Of PC Gaming’
+MSFT,MSFT_news.csv,neutral,0.7289,"As the rising costs of RAM crush the notion of gaming as an affordable hobby, what are PC gamers and Xbox fans supposed to do?"
+MSFT,MSFT_news.csv,neutral,0.9149,Microsoft’s Stock Is Crippled
+MSFT,MSFT_news.csv,negative,0.8933,SpaceX Shares Fall Below $150 Debut Price For First Time
+MSFT,MSFT_news.csv,negative,0.96,Microsoft stock hits one-year low amid AI spending concerns
+MSFT,MSFT_news.csv,neutral,0.6525,On the robustness of topological gap detection via transport
+MSFT,MSFT_news.csv,neutral,0.6679,Janus Henderson Global Sustainable Equity Fund Trimmed Microsoft (MSFT) in Q1
+MSFT,MSFT_news.csv,neutral,0.8673,"I left my $450,000 tech job to open a halal BBQ restaurant in Texas. It made over $2 million in its first year."
+MSFT,MSFT_news.csv,neutral,0.9083,Apple's Price Hikes Aren't Just an AI Problem
+MSFT,MSFT_news.csv,neutral,0.8882,Apple passes RAMpocalypse costs on to consumers
+MSFT,MSFT_news.csv,neutral,0.9133,Jim Cramer Reveals What He’d Like To See With Microsoft (MSFT)
+MSFT,MSFT_news.csv,neutral,0.8256,Cordyceps CI/CD Flaws Expose 300+ GitHub Repositories to Supply-Chain Attacks
+MSFT,MSFT_news.csv,negative,0.8842,SpaceX stock dips below $150 before rebounding
+MSFT,MSFT_news.csv,neutral,0.5773,Why Jefferies Is Betting That IREN Stock Will Gain 30% from Here
+MSFT,MSFT_news.csv,negative,0.9472,Domino's Stock Slides to 52-Week Low as Investors Digest CEO Change
+MSFT,MSFT_news.csv,neutral,0.8664,The performance dividend: Optimizing PostgreSQL on Azure directly in Visual Studio Code
+MSFT,MSFT_news.csv,neutral,0.9417,Leopold Aschenbrenne Latest AI Portfolio: IREN (IREN)
+MSFT,MSFT_news.csv,neutral,0.7968,3 charts to understand the stock market's 'mega rotation' out of tech
+MSFT,MSFT_news.csv,positive,0.9408,Amazon (AMZN) BofA Sees Q2 Revenue Beat Despite Prime Day Timing Shift
+MSFT,MSFT_news.csv,neutral,0.9238,You can currently get Windows 11 Pro for life for just $9.97
+MSFT,MSFT_news.csv,negative,0.9117,SpaceX stock dips below $150 debut before rebounding
+MSFT,MSFT_news.csv,neutral,0.9475,"Google’s parent company, Alphabet, is being added to the Dow Jones stock index"
+MSFT,MSFT_news.csv,positive,0.9487,Microsoft Forecast: Strong Buy With Near-Unanimous Analyst Support
+MSFT,MSFT_news.csv,neutral,0.8879,"EU Targets Microsoft (MSFT) and Amazon Cloud Units for Big Tech “Gatekeeper” Rules, Reuters Reports"
+MSFT,MSFT_news.csv,negative,0.5364,"Apple, Microsoft hike prices over surging chip costs"
+MSFT,MSFT_news.csv,neutral,0.9197,Why Microsoft Stock Just Dropped
+MSFT,MSFT_news.csv,negative,0.9497,Data Centers Were the Biggest Losers of the Week
+MSFT,MSFT_news.csv,negative,0.9549,Asia stock markets slide as tech shares slump
+MSFT,MSFT_social.csv,negative,0.7358,"Tech giants are not going to slash their AI spending plans, bullish tech analyst says"
+MSFT,MSFT_social.csv,negative,0.9675,Microsoft stock is headed for its worst month since 2000
+MSFT,MSFT_social.csv,neutral,0.8576,"Nvidia, Micron, and Broadcom hold the stock market's fate in the palm of their hands"
+MSFT,MSFT_social.csv,neutral,0.9234,Why this startup says it can eliminate AI chatbot hallucinations
+MSFT,MSFT_social.csv,positive,0.7857,Chevron surprises investors with eye-catching disclosure
+MSFT,MSFT_social.csv,neutral,0.9243,Should You Buy SpaceX Stock Before It Gets Added to the Nasdaq-100?
+MSFT,MSFT_social.csv,neutral,0.8958,Quantum Computing: The Next AI Investment Opportunity?
+MSFT,MSFT_social.csv,neutral,0.7723,Google and Tesla Wrap Up a Magnificent Day
+MSFT,MSFT_social.csv,positive,0.8909,Amazon Stock Climbs During Strong Day For Magnificent Seven
+MSFT,MSFT_social.csv,negative,0.7802,Consumer Internet Stocks Q1 Teardown: Expedia (NASDAQ:EXPE) Vs The Rest

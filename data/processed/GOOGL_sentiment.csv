@@ -1,0 +1,60 @@
+ticker,source_file,sentiment,confidence,headline
+GOOGL,GOOGL_social.csv,positive,0.7586,"Stock market today: Dow closes above 52,000 for first time, S&P 500 and Nasdaq rally as tech gains"
+GOOGL,GOOGL_social.csv,negative,0.7358,"Tech giants are not going to slash their AI spending plans, bullish tech analyst says"
+GOOGL,GOOGL_social.csv,negative,0.9696,'Magnificent 7' stocks are having a dreadful year
+GOOGL,GOOGL_social.csv,neutral,0.8576,"Nvidia, Micron, and Broadcom hold the stock market's fate in the palm of their hands"
+GOOGL,GOOGL_social.csv,neutral,0.7485,"Dow Jones Futures: Stock Market Rallies On U.S.-Iran News; Alphabet, Rocket Lab, SpaceX, Tesla Are Big Winners"
+GOOGL,GOOGL_social.csv,neutral,0.9107,Here Are Tuesday’s Best Wall Street Analyst Research Calls:
+GOOGL,GOOGL_social.csv,negative,0.9629,"Stock Market Today, June 29: Verizon Drops After Dow Removal and BT Group Joint Venture Drives Heavy Selling"
+GOOGL,GOOGL_social.csv,positive,0.9429,Update: Communication Services Helps Boost US Equity Indexes; Crude Oil Advances Amid Mixed Messaging on Iran Meeting
+GOOGL,GOOGL_social.csv,neutral,0.9473,"Comcast, Charter, Rocket Lab, SpaceX, Tesla, and More Stocks That Explain Today’s Market"
+GOOGL,GOOGL_social.csv,positive,0.9104,Update: Dow Posts New High to Kick Off Holiday-Shortened Trading Week
+GOOGL,GOOGL_news.csv,neutral,0.8118,Is AI 'one big bubble?' Behind the tech selloff
+GOOGL,GOOGL_news.csv,neutral,0.4952,Michael Dell is absolutely crushing it this year
+GOOGL,GOOGL_news.csv,neutral,0.8444,Why is Apple asking me to pay more for Big Tech’s AI obsession?
+GOOGL,GOOGL_news.csv,neutral,0.8263,"I Found the Best Prime Day Pixel Buds Deals: 2a, Pro (2026)"
+GOOGL,GOOGL_news.csv,neutral,0.889,How Domo went from a $2.8 billion darling to fighting for its survival
+GOOGL,GOOGL_news.csv,neutral,0.9284,"Blogs, traffic, and Google"
+GOOGL,GOOGL_news.csv,neutral,0.7889,Google Lowering Play Store Fees and Allowing Alternative Payments Worldwide
+GOOGL,GOOGL_news.csv,neutral,0.9482,Google Takes Verizon’s Place in Dow Jones Industrial Average
+GOOGL,GOOGL_news.csv,neutral,0.755,AI boom may be on its last legs amid stock volatility and dash for cash—but will go out in a blaze of glory with ‘blow-off phase’ before bubble pops
+GOOGL,GOOGL_news.csv,neutral,0.8362,Elon Musk loses his trillionaire status as SpaceX stock comes back to Earth
+GOOGL,GOOGL_news.csv,positive,0.6814,"3 founders skipped VC funding, used AI to stay lean, and got to $1 million in revenue in year one"
+GOOGL,GOOGL_news.csv,neutral,0.9083,Apple's Price Hikes Aren't Just an AI Problem
+GOOGL,GOOGL_news.csv,negative,0.7338,A24 Fans Mourn Its Death After The Backrooms Studio Signs $75 Million Google AI Deal: ‘Membership Cancelled’
+GOOGL,GOOGL_news.csv,neutral,0.9209,I'm the founder of Morgan & Morgan. My hobby is hunting money — here's a day in my life.
+GOOGL,GOOGL_news.csv,positive,0.5599,Google DeepMind Partners With Hollywood Indie Darling A24 to Develop AI Filmmaking Tools
+GOOGL,GOOGL_news.csv,neutral,0.7764,Google Wallet event tickets are about to look a lot better
+GOOGL,GOOGL_news.csv,negative,0.7707,"This Pixel 10 Pro Prime Day deal price made my jaw drop, and I'd be surprised if Amazon doesn't run out of stock"
+GOOGL,GOOGL_news.csv,neutral,0.8707,Gavin Newsom backs nationwide billionaire tax and an AI equity fund: 'Every American should own a piece'
+GOOGL,GOOGL_news.csv,negative,0.6867,Google was the dream job in tech. These workers decided to leave anyway.
+GOOGL,GOOGL_news.csv,negative,0.7418,"The AI talent wars are heating up again. In the battle for stars, Google is losing out."
+GOOGL,GOOGL_news.csv,negative,0.595,"I left a Google job I loved. It was scary to leave, but even scarier to stay."
+GOOGL,GOOGL_news.csv,negative,0.8819,I left Google after making nearly $1M in a year. Fears about layoffs and missing out on the AI boom gave me the push.
+GOOGL,GOOGL_news.csv,negative,0.9523,SpaceX shares drop below debut price before jumping amid $600bn sell-off
+GOOGL,GOOGL_news.csv,negative,0.9103,"Google Loses Two Top AI Researchers To OpenAI & Anthropic via @sejournal, @MattGSouthern"
+GOOGL,GOOGL_news.csv,neutral,0.9095,"Ex-Google engineer says Larry Page, Sergey Brin and Sundar Pichai share the same trait—it’s the lesson he swears by as a $7.2 billion AI CEO"
+GOOGL,GOOGL_news.csv,neutral,0.9208,"Google Finance finally has a real Android app, and it’s live today"
+GOOGL,GOOGL_news.csv,neutral,0.8946,Google's Play Store billing shake-up is finally happening next week
+GOOGL,GOOGL_news.csv,neutral,0.83,Pinterest CEO Bill Ready wants advertisers to see the platform as a search engine for shopping
+GOOGL,GOOGL_news.csv,neutral,0.8822,"Anthropic salaries revealed: How much the AI juggernaut pays technical staff, product managers, and more"
+GOOGL,GOOGL_news.csv,negative,0.9511,Alphabet stock slides as Google loses two top AI researchers
+GOOGL,GOOGL_news.csv,neutral,0.9404,GOOGL Stock Alert: What to Know as Alphabet Joins the Dow Jones Industrial Average
+GOOGL,GOOGL_news.csv,negative,0.8819,I left Google after making nearly $1M in a year. Fears about layoffs and missing out on the AI boom gave me the push.
+GOOGL,GOOGL_news.csv,positive,0.8462,Expanded billing choice and lower fees on Google Play
+GOOGL,GOOGL_news.csv,neutral,0.9367,Google could soon let you message Google Messages about Google Messages
+GOOGL,GOOGL_news.csv,neutral,0.9083,Apple's Price Hikes Aren't Just an AI Problem
+GOOGL,GOOGL_news.csv,neutral,0.9227,Linux Fu: Upcycling an Old Router
+GOOGL,GOOGL_news.csv,neutral,0.8703,Google DeepMind and A24 Announces First-of-its-Kind Partnership
+GOOGL,GOOGL_news.csv,positive,0.915,The Street Expects More Than 70% Upside for Chime Financial (CHYM) Despite 5.3% Decline Over the Past Month
+GOOGL,GOOGL_news.csv,neutral,0.8586,"Republic Services, Inc. (RSG) Is A Top Richard Chilton Stock Pick"
+GOOGL,GOOGL_news.csv,negative,0.7049,Companies Warn RAM Prices Will Keep Spiking At Least Through 2028
+GOOGL,GOOGL_news.csv,positive,0.6453,Moody’s Corporation (MCO): One of the Best Financial Stocks According to Warren Buffett
+GOOGL,GOOGL_news.csv,neutral,0.9193,"I replaced my Pixel home screen with a custom launcher, and I'm never going back"
+GOOGL,GOOGL_news.csv,negative,0.96,Microsoft stock hits one-year low amid AI spending concerns
+GOOGL,GOOGL_news.csv,neutral,0.8709,Alphabet (GOOG) Reports Computer Use Now a Built-In Tool Supported in Gemini 3.5 Flash
+GOOGL,GOOGL_news.csv,neutral,0.8859,Google Meet now seamlessly works with Safari on iPhones
+GOOGL,GOOGL_news.csv,neutral,0.5955,Jack Henry and Alphabet (GOOGL) Expand Google Cloud AI Security Partnership
+GOOGL,GOOGL_news.csv,neutral,0.5836,JPMorgan Says Be an ‘Aggressive Buyer’ of This Beaten-Down AI Stock
+GOOGL,GOOGL_news.csv,neutral,0.8273,Why BlackRock’s (BLK) $5 Billion SpaceX Move Is Turning Heads Across Wall Street
+GOOGL,GOOGL_news.csv,positive,0.9135,"Lemonade, Inc. (LMND): 7 Best Pet Care Stocks to Buy for Consistent Recurring Revenue"

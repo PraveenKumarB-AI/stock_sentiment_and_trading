@@ -1,0 +1,61 @@
+ticker,source_file,sentiment,confidence,headline
+AMZN,AMZN_social.csv,positive,0.9237,Retail 'FOMO' drives record SpaceX Options volume following blockbuster IPO
+AMZN,AMZN_social.csv,neutral,0.8231,The next investing opportunity may be outside Big Tech
+AMZN,AMZN_social.csv,negative,0.9696,'Magnificent 7' stocks are having a dreadful year
+AMZN,AMZN_social.csv,neutral,0.7723,Google and Tesla Wrap Up a Magnificent Day
+AMZN,AMZN_social.csv,positive,0.7776,Stock Market Today: Dow Rises To Record; Cathie Wood Buys This Software Stock Amid 46% Dive
+AMZN,AMZN_social.csv,positive,0.8909,Amazon Stock Climbs During Strong Day For Magnificent Seven
+AMZN,AMZN_social.csv,neutral,0.5249,Rocket Lab enters satellite communications market with $8-billion deal
+AMZN,AMZN_social.csv,neutral,0.9115,The Real Engine Behind Snowflake Stock's Reacceleration
+AMZN,AMZN_social.csv,positive,0.6047,"Tesla Leads Magnificent Seven Recovery, Analysts Chime In On Deliveries"
+AMZN,AMZN_social.csv,negative,0.7186,Big tech faces AI spending scrutiny ahead of Q2 earnings: Wedbush
+AMZN,AMZN_news.csv,neutral,0.9085,"Bill Ackman, David Tepper, and other billionaire fund managers are quietly piling into Amazon"
+AMZN,AMZN_news.csv,negative,0.9206,Softbank CEO Shoots Down Musk’s Plan for Orbital Data Centers as SpaceX Stock Falls Back to Earth
+AMZN,AMZN_news.csv,positive,0.9309,Turnaround stories and idiosyncrasies: BofA shares 8 small-cap stocks poised to rally in the 2nd half
+AMZN,AMZN_news.csv,neutral,0.856,Forget Apple. Amazon just made AI a lot more expensive.
+AMZN,AMZN_news.csv,negative,0.9536,Amazon Web Services CEO says half of white-collar jobs may 'change' due to AI — but it won't be a 'wipe-out'
+AMZN,AMZN_news.csv,neutral,0.5323,Why Would Amazon’s CEO Try to Kneecap Anthropic by Tattling to Trump?
+AMZN,AMZN_news.csv,neutral,0.8263,"I Found the Best Prime Day Pixel Buds Deals: 2a, Pro (2026)"
+AMZN,AMZN_news.csv,negative,0.5425,The Best Fake Christmas Trees on the Market Are 50% Off for Prime Day (2026)
+AMZN,AMZN_news.csv,neutral,0.7946,Amazon and Best Buy Still Offering Pre-Hike Prices on iPads and Macs
+AMZN,AMZN_news.csv,negative,0.9546,"Prime Day's Final Hours Bring Rare Low Prices on AirPods, Apple Watches, and More"
+AMZN,AMZN_news.csv,negative,0.931,Samsung’s Excellent OLED Monitors Are Up to 38 Percent Off for Prime Day
+AMZN,AMZN_news.csv,neutral,0.8287,The best thing that has ever happened for multiplayer games
+AMZN,AMZN_news.csv,negative,0.7707,"This Pixel 10 Pro Prime Day deal price made my jaw drop, and I'd be surprised if Amazon doesn't run out of stock"
+AMZN,AMZN_news.csv,positive,0.9452,"Prime Day retro gaming deals 2026 — score up to 38% off controllers, mobile consoles, and more"
+AMZN,AMZN_news.csv,neutral,0.8915,Ad-free streaming is a luxury now
+AMZN,AMZN_news.csv,neutral,0.7122,This might be the most useful tech gift under $30 this Prime Day
+AMZN,AMZN_news.csv,neutral,0.9083,Apple's Price Hikes Aren't Just an AI Problem
+AMZN,AMZN_news.csv,neutral,0.9056,Is Amazon a Buy? Nearly Every Analyst Says Yes
+AMZN,AMZN_news.csv,negative,0.4709,Elon Musk has broken the rich list
+AMZN,AMZN_news.csv,negative,0.9523,SpaceX shares drop below debut price before jumping amid $600bn sell-off
+AMZN,AMZN_news.csv,neutral,0.834,European Commission lines up Amazon and Microsoft for cloud gatekeeper status
+AMZN,AMZN_news.csv,neutral,0.9352,Are you a consultant? Tell us how much you're spending on AI these days.
+AMZN,AMZN_news.csv,negative,0.8666,The Government Boot Is Coming Down on AI
+AMZN,AMZN_news.csv,neutral,0.9292,Daily Deal: The Ultimate AWS Data Master Class Bundle
+AMZN,AMZN_news.csv,negative,0.9522,Amazon Stock Has Stumbled in 2026. Prime Day Could Change the Story.
+AMZN,AMZN_news.csv,neutral,0.9273,Humanoid robot startup Agility Robotics is going public at a $2.5 billion valuation via a SPAC
+AMZN,AMZN_news.csv,neutral,0.7815,Is CrowdStrike (CRWD) One of the Best Trending AI Stocks to Watch in 2026?
+AMZN,AMZN_news.csv,negative,0.9458,Pokémon Legends: Z-A Switch 2 Edition Gets Its First Major Price Cut at Amazon
+AMZN,AMZN_news.csv,neutral,0.927,MacKenzie Scott alone accounted for one-third of America’s $19.2 billion in megagifts last year
+AMZN,AMZN_news.csv,negative,0.5276,Wall Street isn’t buying Apple’s unprecedented price hikes on products
+AMZN,AMZN_news.csv,neutral,0.9153,"Apple now sells refurbished MacBook Neo, but you probably shouldn’t buy it"
+AMZN,AMZN_news.csv,positive,0.4883,Elastic stretches workforce 7% thinner as AI does more of the heavy lifting
+AMZN,AMZN_news.csv,negative,0.7049,Companies Warn RAM Prices Will Keep Spiking At Least Through 2028
+AMZN,AMZN_news.csv,neutral,0.8587,"Prime Day iPad Deals: Save on iPad mini, iPad Air, and more (from $299)"
+AMZN,AMZN_news.csv,positive,0.5187,"Prime Day 2 deals: MacBook Pro up to $250 off, MacBook Air up to $430 off, AirPods Pro 3, Apple accessories from $7, more"
+AMZN,AMZN_news.csv,negative,0.6326,Worried About Amazon’s AI Bill? What If It’s Already Paid For?
+AMZN,AMZN_news.csv,neutral,0.922,"These are the most popular Prime Day deals according to Windows Central readers — Laptops, mini PCs, storage, monitors, and more are still on sale"
+AMZN,AMZN_news.csv,neutral,0.6305,"PSA: AirPods Max 2 for $399 are almost sold out, plus more AirPods deals"
+AMZN,AMZN_news.csv,neutral,0.9214,GTA 6 Pre-orders are going live: All the places to buy GTA 6 and Standard vs Ultimate edition explained
+AMZN,AMZN_news.csv,neutral,0.514,"Prime Day 1 deals: AirPods, iPhone 17 Pro $365 off, AirTag 2 all-time low, Apple Watch, black Magic Mouse, much more"
+AMZN,AMZN_news.csv,negative,0.8933,SpaceX Shares Fall Below $150 Debut Price For First Time
+AMZN,AMZN_news.csv,neutral,0.8708,I dug through Prime Day and found 83 deals actually worth buying (updating)
+AMZN,AMZN_news.csv,neutral,0.5169,Apple AirPods Max 2 Wireless Over-Ear Headphones (Various) $398.90 + Free S&H
+AMZN,AMZN_news.csv,neutral,0.7624,Is Autodesk (ADSK) One of the Best Big Tech Stocks to Buy According to Wall Street Analysts?
+AMZN,AMZN_news.csv,neutral,0.9052,You’re Almost Out of Time to Save Up to 47% During Roborock’s Prime Day Robot Vacuum and Floor Washer Sale
+AMZN,AMZN_news.csv,neutral,0.9463,"Nvidia Is No Longer the Ultimate AI Play, But NVDA Stock Is a Buy Anyways"
+AMZN,AMZN_news.csv,negative,0.595,"I left a Google job I loved. It was scary to leave, but even scarier to stay."
+AMZN,AMZN_news.csv,neutral,0.7829,The Samsung Galaxy S26 Ultra probably won't get a good Prime Day buy — I'm holding out hope these 3 Androids steal its thunder
+AMZN,AMZN_news.csv,neutral,0.5968,Missed Prime Day? You Can Still Grab Record Low Apple Discounts This Weekend
+AMZN,AMZN_news.csv,neutral,0.9327,"Prime Day is Over, But Check Out These 19 Little-Known Amazon Prime Perks"

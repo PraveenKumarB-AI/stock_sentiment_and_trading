@@ -1,0 +1,60 @@
+ticker,source_file,sentiment,confidence,headline
+NVDA,NVDA_social.csv,positive,0.7586,"Stock market today: Dow closes above 52,000 for first time, S&P 500 and Nasdaq rally as tech gains"
+NVDA,NVDA_social.csv,neutral,0.9123,Why Samsung & SK Hynix are investing so much in South Korea's AI build-out
+NVDA,NVDA_social.csv,negative,0.9696,'Magnificent 7' stocks are having a dreadful year
+NVDA,NVDA_social.csv,neutral,0.8576,"Nvidia, Micron, and Broadcom hold the stock market's fate in the palm of their hands"
+NVDA,NVDA_social.csv,negative,0.9286,AST SpaceMobile's Stock Is Down After Another Successful Launch: Time to Buy The Dip?
+NVDA,NVDA_social.csv,neutral,0.8212,The Companies That Sound Most Confident May Be the Ones to Worry About
+NVDA,NVDA_social.csv,neutral,0.7261,Uber Stock Climbed on Robotaxi Hopes. But It Doesn't Own the Autonomous Cars Driving Its Expansion.
+NVDA,NVDA_social.csv,negative,0.8282,Applied Digital CEO: AI Industry Will See “Pretty Significant Delays Through 2026 and 2027”
+NVDA,NVDA_social.csv,neutral,0.9107,Here Are Tuesday’s Best Wall Street Analyst Research Calls:
+NVDA,NVDA_social.csv,positive,0.5775,Why Tenable Stock Raced Higher Today
+NVDA,NVDA_news.csv,neutral,0.8118,Is AI 'one big bubble?' Behind the tech selloff
+NVDA,NVDA_news.csv,positive,0.6211,Nvidia quietly rose to the top of a $10 billion market you may have never heard of
+NVDA,NVDA_news.csv,neutral,0.9085,"Bill Ackman, David Tepper, and other billionaire fund managers are quietly piling into Amazon"
+NVDA,NVDA_news.csv,neutral,0.8223,China takes the supercomputer crown without US chips
+NVDA,NVDA_news.csv,neutral,0.9321,How much would the Steam Machine cost to build?
+NVDA,NVDA_news.csv,neutral,0.5323,Why Would Amazon’s CEO Try to Kneecap Anthropic by Tattling to Trump?
+NVDA,NVDA_news.csv,neutral,0.8532,Even Valve Knows You May Be Better Off With a Cheaper Steam Machine Alternative
+NVDA,NVDA_news.csv,neutral,0.755,AI boom may be on its last legs amid stock volatility and dash for cash—but will go out in a blaze of glory with ‘blow-off phase’ before bubble pops
+NVDA,NVDA_news.csv,neutral,0.9083,Apple's Price Hikes Aren't Just an AI Problem
+NVDA,NVDA_news.csv,negative,0.9462,Tech stocks tumble on concerns over AI spending
+NVDA,NVDA_news.csv,neutral,0.531,"OpenAI Distances Itself From Nvidia With Jalapeño, Its First In-House AI Chip"
+NVDA,NVDA_news.csv,neutral,0.9365,Nvidia Halos
+NVDA,NVDA_news.csv,neutral,0.9271,NVIDIA’s New AI Servers Run on Hotub Coolant and Don’t Need Evaporators
+NVDA,NVDA_news.csv,positive,0.8753,"Made a Rust DB run spatial queries on gaming GPU RT cores, beating an H100"
+NVDA,NVDA_news.csv,neutral,0.8707,Gavin Newsom backs nationwide billionaire tax and an AI equity fund: 'Every American should own a piece'
+NVDA,NVDA_news.csv,neutral,0.8995,"I use these 3 GPU tweaks instead of frame generation, and my games have never looked better"
+NVDA,NVDA_news.csv,negative,0.7533,Elon Musk loses trillionaire status as global tech rout hits SpaceX
+NVDA,NVDA_news.csv,negative,0.9523,SpaceX shares drop below debut price before jumping amid $600bn sell-off
+NVDA,NVDA_news.csv,neutral,0.9288,"Forget Mars, SpaceX Is Becoming a Data Center Company"
+NVDA,NVDA_news.csv,positive,0.9342,"With a Dominant Position in AI Infrastructure, Nvidia Stock Will Continue to Create Value"
+NVDA,NVDA_news.csv,neutral,0.7747,23 Walmart Deals We Like Better Than That Other Sale Happening Right Now
+NVDA,NVDA_news.csv,neutral,0.5071,"I benchmarked my gaming PC on Windows vs Linux, and the difference was bigger than I expected"
+NVDA,NVDA_news.csv,positive,0.9159,Nvidia Touts ‘100% Reduction in Water Use’ With New Data Center Design
+NVDA,NVDA_news.csv,neutral,0.9273,Humanoid robot startup Agility Robotics is going public at a $2.5 billion valuation via a SPAC
+NVDA,NVDA_news.csv,neutral,0.861,AI projects increasingly sound like your grocery list
+NVDA,NVDA_news.csv,neutral,0.5592,"EVGA stopped making GPUs nearly 4 years ago, and no one has filled the void they left"
+NVDA,NVDA_news.csv,neutral,0.9463,"Nvidia Is No Longer the Ultimate AI Play, But NVDA Stock Is a Buy Anyways"
+NVDA,NVDA_news.csv,neutral,0.8978,Why current LLM costs are not sustainable
+NVDA,NVDA_news.csv,neutral,0.8822,"Anthropic salaries revealed: How much the AI juggernaut pays technical staff, product managers, and more"
+NVDA,NVDA_news.csv,negative,0.9687,NVDA Stock Alert: The Prices of Nvidia’s Chips Could Drop for Some Time Amid Intensifying Competition
+NVDA,NVDA_news.csv,neutral,0.9482,Google Takes Verizon’s Place in Dow Jones Industrial Average
+NVDA,NVDA_news.csv,positive,0.719,Arm Stock Is Up 235% in 2026: Is Today’s 10% Drawdown a Take-Profits Signal?
+NVDA,NVDA_news.csv,negative,0.9139,Microsoft Has Fallen 25% This Year: What Could Push MSFT Back to $500?
+NVDA,NVDA_news.csv,neutral,0.8961,Nvidia Price Prediction: The Forecast Climbs Again. Here’s Where the AI Leader Heads Next
+NVDA,NVDA_news.csv,neutral,0.9083,Apple's Price Hikes Aren't Just an AI Problem
+NVDA,NVDA_news.csv,negative,0.9631,Micron Tumbles 13% As South Korean ETF Warning Fuels Chip Sell-Off
+NVDA,NVDA_news.csv,neutral,0.9056,Is Amazon a Buy? Nearly Every Analyst Says Yes
+NVDA,NVDA_news.csv,neutral,0.5773,Why Jefferies Is Betting That IREN Stock Will Gain 30% from Here
+NVDA,NVDA_news.csv,negative,0.6413,Nervous investors await Micron earnings as chip sector whipsaws
+NVDA,NVDA_news.csv,neutral,0.8178,How a $4 Billion Acquisition Could Be Just What Qualcomm Stock Needs to Challenge Nvidia
+NVDA,NVDA_news.csv,positive,0.9035,"Micron Soars 17%, SanDisk Jumps 15%, Western Digital Climbs 13% After Blowout Quarter Locks In $100B of AI Memory Demand"
+NVDA,NVDA_news.csv,neutral,0.8951,How to survive the memory shortage crisis: a PC owner's guide
+NVDA,NVDA_news.csv,neutral,0.9252,Qualcomm acquires AI software startup Modular for $3.9 billion
+NVDA,NVDA_news.csv,positive,0.912,Tech stocks live: Micron stock jumps over 12% on earnings beat after tumbling earlier this week
+NVDA,NVDA_news.csv,neutral,0.9243,Wall Street Has 36 Buy Ratings on Oracle. Here’s How We See 47% Upside
+NVDA,NVDA_news.csv,neutral,0.9085,Can Oracle Reach $800 Per Share by 2030? Here’s How It Can Happen
+NVDA,NVDA_news.csv,neutral,0.9134,Frozen Assets: How Super Micro Puts AI Heat on Ice
+NVDA,NVDA_news.csv,neutral,0.9286,How Applied Materials Could Become the Next $1 Trillion Chip Stock
+NVDA,NVDA_news.csv,neutral,0.7606,"Xbox announced Halo: Campaign Evolved's PC system requirements and recommended specs, and woof — I have bad news if you were hoping for a small file size"

@@ -1,0 +1,61 @@
+ticker,source_file,sentiment,confidence,headline
+META,META_news.csv,neutral,0.9246,Of course Meta thinks gambling is the future
+META,META_news.csv,neutral,0.9085,"Bill Ackman, David Tepper, and other billionaire fund managers are quietly piling into Amazon"
+META,META_news.csv,neutral,0.9109,WhatsApp Is Getting A New CEO From The Fintech World
+META,META_news.csv,neutral,0.6876,Facebook employee data exposed in Meta's own surveillance program
+META,META_news.csv,neutral,0.869,Mark Zuckerberg Reportedly Looking To Start His Own Betting App To Rival Polymarket
+META,META_news.csv,neutral,0.9157,Mark Zuckerberg Directed Meta To Create a Prediction Markets App
+META,META_news.csv,positive,0.4977,The VR Games Showcase Summer 2026 just gave me fresh reasons to pick up HEAVILY discounted Meta Quest gift cards on Prime Day
+META,META_news.csv,neutral,0.7302,Meta Launches Its Own $299 Smart Glasses Ahead of Apple's Debut
+META,META_news.csv,neutral,0.7638,"Facebook Ads: New Tools for Better Tracking, More Creative, and Faster Sales"
+META,META_news.csv,neutral,0.7315,Meta Is Building a Prediction Markets App to Challenge Polymarket and Kalshi
+META,META_news.csv,neutral,0.9083,Apple's Price Hikes Aren't Just an AI Problem
+META,META_news.csv,neutral,0.6208,"Meta's Zuckerberg enters the prediction market arena — again, a step behind"
+META,META_news.csv,neutral,0.8374,Researchers Identify 3 Key Drivers Behind ‘AI Psychosis’
+META,META_news.csv,neutral,0.9275,The CEO of Lovable says talent was never the issue with Europe's AI scene
+META,META_news.csv,negative,0.8759,Meta Halts Employee Data Tracking After Sensitive Info Reportedly Exposed
+META,META_news.csv,neutral,0.8822,"Anthropic salaries revealed: How much the AI juggernaut pays technical staff, product managers, and more"
+META,META_news.csv,negative,0.7418,"The AI talent wars are heating up again. In the battle for stars, Google is losing out."
+META,META_news.csv,neutral,0.8844,Meta Platforms Just Unveiled New Smart Glasses. What That Means for META Stock.
+META,META_news.csv,positive,0.8965,Wall Street Sees More Than 40% Upside for Meta Platforms (META)
+META,META_news.csv,neutral,0.9406,Meta Platforms Just Took a 20% Stake in Cred. What That Means for META Stock.
+META,META_news.csv,neutral,0.5836,JPMorgan Says Be an ‘Aggressive Buyer’ of This Beaten-Down AI Stock
+META,META_news.csv,negative,0.9622,"Meta gave 6 executives options worth up to $921M each, then cut 8,000 jobs after a record $56.3B quarter"
+META,META_news.csv,negative,0.9622,"Meta gave 6 executives options worth up to $921M each, then cut 8,000 jobs after a record $56.3B quarter"
+META,META_news.csv,neutral,0.6134,Mark Zuckerberg Thinks Meta Isn't Doing Enough to Cater to Gambling Addicts
+META,META_news.csv,neutral,0.8961,Nvidia Price Prediction: The Forecast Climbs Again. Here’s Where the AI Leader Heads Next
+META,META_news.csv,neutral,0.6936,Patreon CEO Jack Conte on supporting artists in the AI slop era
+META,META_news.csv,neutral,0.9366,"Meta prediction markets app Arena sinks DraftKings, Robinhood stock"
+META,META_news.csv,negative,0.9635,Meta's Internal Turmoil: Morale Nears 20-Year Low at the Wrong Time
+META,META_news.csv,negative,0.96,Microsoft stock hits one-year low amid AI spending concerns
+META,META_news.csv,negative,0.561,Oracle’s Sell-Off Looks More Like a Mispricing Than a Warning
+META,META_news.csv,neutral,0.8915,WhatsApp to be led by Indian start-up founder as Will Cathcart steps back
+META,META_news.csv,neutral,0.9051,Inside One of Meta’s Data Centers
+META,META_news.csv,neutral,0.7281,"Micron Just Locked In $100 Billion in Sales, and Wall Street Thinks the Boom-Bust Chip Cycle Is Dead"
+META,META_news.csv,neutral,0.9083,Apple's Price Hikes Aren't Just an AI Problem
+META,META_news.csv,neutral,0.9302,Meta’s rumored Polymarket rival wants you to literally bet on the future
+META,META_news.csv,neutral,0.9308,10 Facebook E-commerce Apps That Help You Sell on Facebook and Instagram
+META,META_news.csv,neutral,0.9068,AMD’s MEXT Acquisition Is More Important Than Markets Realize. Here’s How It Solves the Memory Bottleneck.
+META,META_news.csv,positive,0.7185,Wall Street Is Getting More Bullish on Stocks. The S&P 500 Is 'Earning' Its Gains.
+META,META_news.csv,negative,0.9664,SpaceX stock tumbles 23% from its high as average investors see gains wiped out
+META,META_news.csv,neutral,0.9359,Broadcom Just Quietly Became OpenAI’s Preferred Choice for AI Inference. Here’s What That Means for AVGO Stock.
+META,META_news.csv,negative,0.9687,NVDA Stock Alert: The Prices of Nvidia’s Chips Could Drop for Some Time Amid Intensifying Competition
+META,META_news.csv,neutral,0.8171,Analyst Trims Price Target on Entergy (ETR). Here is Why
+META,META_news.csv,neutral,0.8765,"As new tech shines, market takes rest on old cushions: Devina Mehra"
+META,META_news.csv,neutral,0.8906,Quote of the day by Meta CEO Mark Zuckerberg: Privacy is no longer a social norm — declaring the erosion of social boundaries
+META,META_news.csv,positive,0.8988,SK Hynix just surpassed Samsung to become South Korea's most valuable company
+META,META_news.csv,neutral,0.7968,3 charts to understand the stock market's 'mega rotation' out of tech
+META,META_news.csv,neutral,0.9234,The Cannes Lions deal the ad industry is buzzing about — and what it means
+META,META_news.csv,negative,0.8342,Future of Marketing Briefing: CMOs are still haunted by hard questions about value of ad creative
+META,META_news.csv,negative,0.5113,Micron Earnings Have Never Looked Better. Start Worrying.
+META,META_news.csv,neutral,0.3705,The Giant Bet Weighing On Meta Stock
+META,META_social.csv,positive,0.9237,Retail 'FOMO' drives record SpaceX Options volume following blockbuster IPO
+META,META_social.csv,negative,0.9696,'Magnificent 7' stocks are having a dreadful year
+META,META_social.csv,neutral,0.7723,Google and Tesla Wrap Up a Magnificent Day
+META,META_social.csv,positive,0.8909,Amazon Stock Climbs During Strong Day For Magnificent Seven
+META,META_social.csv,positive,0.6047,"Tesla Leads Magnificent Seven Recovery, Analysts Chime In On Deliveries"
+META,META_social.csv,negative,0.7186,Big tech faces AI spending scrutiny ahead of Q2 earnings: Wedbush
+META,META_social.csv,positive,0.6903,Sector Update: Tech Stocks Gain Late Afternoon
+META,META_social.csv,neutral,0.9243,Dan Ives Says the $3 Trillion Tech Wipeout Is a Buying Opportunity. Here’s His Case
+META,META_social.csv,positive,0.457,"Alphabet Stock Rallies After Capping Meta’s AI Use, Joining Dow"
+META,META_social.csv,neutral,0.6647,"Down About 29%, Is Meta Stock a Buy, Sell, or Hold?"

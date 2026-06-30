@@ -1,0 +1,59 @@
+ticker,source_file,sentiment,confidence,headline
+TSLA,TSLA_news.csv,negative,0.8128,Tesla claims driver ‘manually overrode self-driving’ in deadly Texas crash
+TSLA,TSLA_news.csv,neutral,0.5966,"Europeans Are Buying Teslas Again, Surrendering the Easiest Front in the War on American Big Tech"
+TSLA,TSLA_news.csv,neutral,0.4952,Michael Dell is absolutely crushing it this year
+TSLA,TSLA_news.csv,neutral,0.8362,Elon Musk loses his trillionaire status as SpaceX stock comes back to Earth
+TSLA,TSLA_news.csv,negative,0.4709,Elon Musk has broken the rich list
+TSLA,TSLA_news.csv,neutral,0.8487,Trump Admin Wants to Make Brake Pedals Optional in Autonomous Vehicles
+TSLA,TSLA_news.csv,neutral,0.9086,I drove the Slate Truck — there’s more to it than EV minimalism
+TSLA,TSLA_news.csv,negative,0.6993,Elon Musk agrees with Tim Cook: The memory shortage is unprecedented
+TSLA,TSLA_news.csv,negative,0.5899,Polestar Faces a Ban on Selling Its EVs in the US
+TSLA,TSLA_news.csv,neutral,0.9357,Why 'Big Short' investor Michael Burry has a Lululemon shopping bag framed on his wall
+TSLA,TSLA_news.csv,negative,0.7533,Elon Musk loses trillionaire status as global tech rout hits SpaceX
+TSLA,TSLA_news.csv,neutral,0.893,BYD's Stella Li tells BI she wants to put humanoid robots in every car showroom
+TSLA,TSLA_news.csv,neutral,0.8754,"Slate Auto's Radically Simple Electric Truck Starts At $24,950"
+TSLA,TSLA_news.csv,neutral,0.819,SoftBank CEO questions Elon Musk's vision of AI data centers in space: 'What's the point?'
+TSLA,TSLA_news.csv,neutral,0.8425,Tesla cofounder JB Straubel’s first pitch to Elon Musk failed. Then he turned his ‘hobby’ into a $1.3 trillion success
+TSLA,TSLA_news.csv,neutral,0.893,BYD's Stella Li tells BI she wants to put humanoid robots in every car showroom
+TSLA,TSLA_news.csv,negative,0.8211,Tesla sued over fatal Texas crash the driver says happened on Autopilot
+TSLA,TSLA_news.csv,neutral,0.9083,Apple's Price Hikes Aren't Just an AI Problem
+TSLA,TSLA_news.csv,positive,0.5572,"Exclusive-China's Geely to ship first Lotus EVs to Canada in July under Carney-Xi deal, ambassador says"
+TSLA,TSLA_news.csv,neutral,0.852,These Are the Headlines That Elon Musk Says Don’t Exist
+TSLA,TSLA_news.csv,negative,0.5415,CEO of $8 billion Flexport blasts remote work as ‘white-collar fraud’ and a ‘total fantasy’ for highly paid employees
+TSLA,TSLA_news.csv,negative,0.8933,SpaceX Shares Fall Below $150 Debut Price For First Time
+TSLA,TSLA_news.csv,neutral,0.7377,Meet the 2 men putting New York’s $300 billion pension fund in play for the first time in 20 years
+TSLA,TSLA_news.csv,neutral,0.915,4 iconic American CEOs are on the way out. Meet the nuts-and-bolts leaders taking their place.
+TSLA,TSLA_news.csv,neutral,0.929,How to Play LI Stock as Li Auto Unveils a New L8 SUV
+TSLA,TSLA_news.csv,neutral,0.7123,"Lord, Protect My Family from ""Autopilot"" Teslas Slamming Into Our Homes"
+TSLA,TSLA_news.csv,negative,0.499,Elon Musk loses trillionaire status as SpaceX stock falls
+TSLA,TSLA_news.csv,negative,0.9631,Micron Tumbles 13% As South Korean ETF Warning Fuels Chip Sell-Off
+TSLA,TSLA_news.csv,neutral,0.8947,"Global Tech Rout—Nvidia, Tesla, More—Hits Markets: Here’s What Fueled The Selloff"
+TSLA,TSLA_news.csv,negative,0.852,"US watchdog opens probe after Tesla crashes into Texas home, killing woman"
+TSLA,TSLA_news.csv,positive,0.9482,Sunrun Surges 26% on 16-Gigawatt Virtual Power Plant Deal With Tesla and Renew Home
+TSLA,TSLA_news.csv,neutral,0.847,"Ross Gerber Says Slate Auto Is What Happens When 'Top Tesla And Amazon' Execs Build An EV, Predicts Buyers Will ‘Love’ Its $25,000 Pickup"
+TSLA,TSLA_news.csv,negative,0.8909,"Family sues Tesla for wrongful death in Autopilot crash in Texas, US"
+TSLA,TSLA_news.csv,neutral,0.878,SpaceX Earns Lowest Corporate Responsibility Rating—Here’s What That Means
+TSLA,TSLA_news.csv,neutral,0.9419,"Redistributing Elon Musk’s $1 Trillion Fortune Would Likely Give Each U.S. Household Just $1,500. Here’s the Math"
+TSLA,TSLA_news.csv,neutral,0.9273,Humanoid robot startup Agility Robotics is going public at a $2.5 billion valuation via a SPAC
+TSLA,TSLA_news.csv,neutral,0.4933,"Spacex Got the Worst Possible Environmental Grade Right Before Its IPO, Putting It in the Same Tier MSCI Gave Putin’s Russia After It Invaded Ukraine"
+TSLA,TSLA_news.csv,neutral,0.8339,"SpaceX Could Acquire T-Mobile As It Expands Into Wireless, Analyst Says"
+TSLA,TSLA_news.csv,neutral,0.9133,Mark Cuban Says The Real Issue Isn’t Elon Musk Becoming A Trillionaire While Others Can’t Pay Bills — CEOs Should ‘Give Stock To Everybody’
+TSLA,TSLA_news.csv,neutral,0.9083,Apple's Price Hikes Aren't Just an AI Problem
+TSLA,TSLA_news.csv,neutral,0.8455,Europe is debating the terms of its industrial surrender
+TSLA,TSLA_news.csv,neutral,0.825,"If the Government Seized Elon Musk’s Entire $1 Trillion Fortune and Split It Up, Every U.S. Household Would Get $7,500. One Time"
+TSLA,TSLA_news.csv,neutral,0.7906,Disastrous EV startup looks to $90K humanoid for salvation
+TSLA,TSLA_news.csv,neutral,0.9463,"Nvidia Is No Longer the Ultimate AI Play, But NVDA Stock Is a Buy Anyways"
+TSLA,TSLA_news.csv,neutral,0.9433,How Much Tax Would Elon Musk Pay If This US Bill Passes?
+TSLA,TSLA_news.csv,positive,0.7247,Analyst Behind $250 SpaceX Target Says Physical AI Will Be “One of AI’s Fastest-Growing Areas Over the Next 4-5 Years”
+TSLA,TSLA_news.csv,neutral,0.8765,"As new tech shines, market takes rest on old cushions: Devina Mehra"
+TSLA,TSLA_news.csv,negative,0.8394,Mark Cuban doubles down on the stock market and Elon Musk
+TSLA,TSLA_social.csv,negative,0.9696,'Magnificent 7' stocks are having a dreadful year
+TSLA,TSLA_social.csv,neutral,0.7485,"Dow Jones Futures: Stock Market Rallies On U.S.-Iran News; Alphabet, Rocket Lab, SpaceX, Tesla Are Big Winners"
+TSLA,TSLA_social.csv,positive,0.5945,"Stock Market Today, June 29: Nasdaq Composite Outperforms as Tech Stocks Gain on Easing Geopolitical Tensions"
+TSLA,TSLA_social.csv,negative,0.7774,These 2 Industrial Giants Have Crushed Tesla's Returns Over the Last 12 Months. Will The Party Continue?
+TSLA,TSLA_social.csv,positive,0.9429,Update: Communication Services Helps Boost US Equity Indexes; Crude Oil Advances Amid Mixed Messaging on Iran Meeting
+TSLA,TSLA_social.csv,neutral,0.6896,Tesla (TSLA) Teams With Sunrun And Renew Home On A 16 Gigawatt Virtual Power Plant
+TSLA,TSLA_social.csv,neutral,0.9473,"Comcast, Charter, Rocket Lab, SpaceX, Tesla, and More Stocks That Explain Today’s Market"
+TSLA,TSLA_social.csv,neutral,0.7723,Google and Tesla Wrap Up a Magnificent Day
+TSLA,TSLA_social.csv,positive,0.8909,Amazon Stock Climbs During Strong Day For Magnificent Seven
+TSLA,TSLA_social.csv,positive,0.7384,Tesla Stock Rises as Musk’s EV Maker Deepens Ties With SpaceX
