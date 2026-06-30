@@ -3,6 +3,15 @@ __pycache__/
 *.pyc
 .DS_Store
 .env
-data/raw/
-data/processed/
 .streamlit/secrets.toml
+
+# Ignore all data by default...
+data/
+
+# ...but allow the small processed files and the model the live app needs
+!data/processed/
+!data/processed/*_sentiment.csv
+!data/processed/*_indicators.csv
+!data/processed/*_features.csv
+!data/models/
+!data/models/*.pkl
