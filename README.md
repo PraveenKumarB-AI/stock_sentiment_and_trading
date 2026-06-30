@@ -4,6 +4,10 @@ A machine-learning pipeline that reads live financial news, Reddit discussion, a
 
 > This is a learning and portfolio project, not a real trading tool. The predictions exist to demonstrate engineering skill and must not be used for actual trading decisions. Nothing here is financial advice.
 
+**Live demo:** https://stocksentimentandtrading-v7nhvnxmjsoe5xjpmc9us2.streamlit.app
+
+**Live demo:** https://stocksentimentandtrading-v7nhvnxmjsoe5xjpmc9us2.streamlit.app
+
 ## What it does
 
 For a set of well-known stocks — Apple, Microsoft, Tesla, Nvidia, Amazon, Google, and Meta — the system gathers three kinds of signal: how the news is talking about each company, how Reddit is talking about it, and how its price has been moving. It turns the text into sentiment scores and the prices into technical indicators, then combines them to estimate whether a stock is likely to move up or down in the near term. The result is shown on a live dashboard, and ultimately updates in real time as fresh data arrives.
@@ -44,7 +48,7 @@ The project is built in modules. Status is marked as the build progresses.
 - [x] **Module 6 — Feature Builder.** Merges indicators and a sentiment signal into one table per stock, labelled with next-day up/down movement.
 - [x] **Module 7 — Prediction Model.** Compares XGBoost, Random Forest, and Logistic Regression on a 3-day horizon with a time-based split. Best model beats baseline; absolute accuracy stays near coin-flip, the honest reality of short-term price prediction.
 - [x] **Module 8 — Dashboard.** A dark, midnight-blue-and-gold Streamlit dashboard showing each stock's price, indicators, news sentiment, and the model's 3-day signal.
-- [ ] **Module 9 — Deploy (free).** Live public app on Streamlit Community Cloud.
+- [x] **Module 9 — Deploy (free).** Live on Streamlit Community Cloud.
 
 **Upgrades — stronger models and MLOps**
 
