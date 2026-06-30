@@ -81,7 +81,18 @@ The project is built in modules. Status is marked as the build progresses.
   | `/predict-all` | GET | API key | Signal for every tracked stock |
 
   Verified end to end: `/predict/AAPL` returns 401 without a key and 200 with the correct one, returning a real signal (e.g. RandomForest → AAPL → up, $281.74, RSI 39.9). Interactive docs at `/docs` (FastAPI's Swagger UI). This API runs standalone — the Streamlit dashboard reads the model and data files directly rather than calling it — so it's a second, independent way to serve predictions, e.g. for another application to consume.
-- [ ] **Module 13 — LSTM Ensemble.** LSTM combined with XGBoost into an ensemble.
+- [x] **Module 13 — LSTM Ensemble.** A small LSTM trained on 10-day feature sequences, combined with a freshly trained XGBoost (on the matching window-aligned single-day rows) into an averaged ensemble.
+
+  | Model | Accuracy |
+  |---|---|
+  | XGBoost alone | 49.0% |
+  | LSTM alone | 48.6% |
+  | **Ensemble (averaged)** | **50.3%** |
+  | Baseline | 40.1% |
+
+  The ensemble outperforms both individual models — a modest, realistic lift consistent with combining two models that look at the data differently (XGBoost sees a single day's snapshot, the LSTM sees a 10-day trend). An explicit alignment check confirms both models were evaluated on identical test days before combining, so the comparison is genuinely apples-to-apples.
+
+  Implementation note: training the LSTM (PyTorch) and XGBoost in the same process caused a segmentation fault from a library-level conflict between the two — a known class of issue on macOS. The fix was splitting training into three isolated scripts (`train_lstm_only.py`, `train_xgb_for_ensemble.py`, `build_ensemble.py`) that save predictions to disk and combine them in a separate process.
 
 **Stretch — real infrastructure**
 
