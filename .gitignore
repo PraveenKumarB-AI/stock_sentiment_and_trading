@@ -17,3 +17,4 @@ data/
 !data/models/*.pkl
 models/finbert_finetuned/
 models/finbert_finetuned/
+mlruns/

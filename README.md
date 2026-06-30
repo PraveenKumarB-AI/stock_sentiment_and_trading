@@ -61,7 +61,15 @@ The project is built in modules. Status is marked as the build progresses.
   | 3 | 0.194 | 0.459 | 83.1% | 83.1% |
 
   Validation loss bottomed at epoch 1 while train loss kept falling — a mild sign of overfitting by epoch 3, worth noting honestly. The training notebook is included for full reproducibility; the resulting model weights (~418MB) are kept local rather than committed, since large binaries don't belong in a git repo — standard practice for trained models.
-- [ ] **Module 11 — Experiment Tracking.** MLflow logging of runs, parameters, and metrics.
+- [x] **Module 11 — Experiment Tracking.** Each model run (XGBoost, Random Forest, Logistic Regression) is logged to MLflow with its hyperparameters, accuracy, and baseline comparison.
+
+  | Model | Accuracy | Baseline | Beats baseline by |
+  |---|---|---|---|
+  | RandomForest | 49.4% | 40.9% | +8.4 pts |
+  | LogisticRegression | 47.1% | 40.9% | +6.2 pts |
+  | XGBoost | 46.1% | 40.9% | +5.2 pts |
+
+  Note: the MLflow web UI (`mlflow ui`) currently fails to start on Python 3.14 due to an `importlib.abc` incompatibility in MLflow's server code — a known lag between a brand-new Python release and the broader library ecosystem. Logged runs are fully intact in `mlflow.db` and viewable via `python -m models.view_mlflow_runs`, a small script included in the repo as a UI-independent fallback.
 - [ ] **Module 12 — Prediction API.** FastAPI endpoint serving the model.
 - [ ] **Module 13 — LSTM Ensemble.** LSTM combined with XGBoost into an ensemble.
 
