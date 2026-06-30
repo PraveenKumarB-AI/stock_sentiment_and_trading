@@ -70,7 +70,17 @@ The project is built in modules. Status is marked as the build progresses.
   | XGBoost | 46.1% | 40.9% | +5.2 pts |
 
   Note: the MLflow web UI (`mlflow ui`) currently fails to start on Python 3.14 due to an `importlib.abc` incompatibility in MLflow's server code — a known lag between a brand-new Python release and the broader library ecosystem. Logged runs are fully intact in `mlflow.db` and viewable via `python -m models.view_mlflow_runs`, a small script included in the repo as a UI-independent fallback.
-- [ ] **Module 12 — Prediction API.** FastAPI endpoint serving the model.
+- [x] **Module 12 — Prediction API.** A FastAPI service exposing the trained model over HTTP, with the same auth + rate-limiting pattern built in the financial-doc-intelligence project: read-only endpoints are open, the prediction endpoints require an API key and are rate-limited.
+
+  | Endpoint | Method | Auth | Returns |
+  |---|---|---|---|
+  | `/` | GET | none | Health check |
+  | `/tickers` | GET | none | Supported tickers |
+  | `/sentiment/{ticker}` | GET | none | Sentiment breakdown |
+  | `/predict/{ticker}` | GET | API key | 3-day signal + key indicators |
+  | `/predict-all` | GET | API key | Signal for every tracked stock |
+
+  Verified end to end: `/predict/AAPL` returns 401 without a key and 200 with the correct one, returning a real signal (e.g. RandomForest → AAPL → up, $281.74, RSI 39.9). Interactive docs at `/docs` (FastAPI's Swagger UI). This API runs standalone — the Streamlit dashboard reads the model and data files directly rather than calling it — so it's a second, independent way to serve predictions, e.g. for another application to consume.
 - [ ] **Module 13 — LSTM Ensemble.** LSTM combined with XGBoost into an ensemble.
 
 **Stretch — real infrastructure**
