@@ -48,7 +48,15 @@ The project is built in modules. Status is marked as the build progresses.
 
 **Upgrades — stronger models and MLOps**
 
-- [ ] **Module 10 — Fine-Tune FinBERT.** Fine-tuned on the Financial PhraseBank dataset with an F1 score.
+- [x] **Module 10 — Fine-Tune FinBERT.** Fine-tuned on the Financial PhraseBank dataset (3,876 train / 776 test sentences, 3 epochs, T4 GPU via Colab). Final F1: 83.1%, accuracy: 83.1%, on a held-out test set.
+
+  | Epoch | Train Loss | Val Loss | Accuracy | F1 |
+  |---|---|---|---|---|
+  | 1 | 0.546 | 0.447 | 81.8% | 81.9% |
+  | 2 | 0.340 | 0.425 | 82.5% | 82.7% |
+  | 3 | 0.194 | 0.459 | 83.1% | 83.1% |
+
+  Validation loss bottomed at epoch 1 while train loss kept falling — a mild sign of overfitting by epoch 3, worth noting honestly. The training notebook is included for full reproducibility; the resulting model weights (~418MB) are kept local rather than committed, since large binaries don't belong in a git repo — standard practice for trained models.
 - [ ] **Module 11 — Experiment Tracking.** MLflow logging of runs, parameters, and metrics.
 - [ ] **Module 12 — Prediction API.** FastAPI endpoint serving the model.
 - [ ] **Module 13 — LSTM Ensemble.** LSTM combined with XGBoost into an ensemble.
@@ -75,6 +83,8 @@ stock_sentiment_and_trading/
 │   └── train_model.py        Module 7 — train and compare prediction models
 ├── ui/
 │   └── dashboard.py          Module 8 — Streamlit dashboard
+├── notebooks/
+│   └── finetune_finbert.ipynb  Module 10 — FinBERT fine-tuning (Colab)
 ├── data/
 │   └── raw/                  Collected data (kept local, not committed)
 ├── requirements.txt

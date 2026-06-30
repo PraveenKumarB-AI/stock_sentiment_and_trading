@@ -15,3 +15,5 @@ data/
 !data/processed/*_features.csv
 !data/models/
 !data/models/*.pkl
+models/finbert_finetuned/
+models/finbert_finetuned/
