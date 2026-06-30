@@ -43,7 +43,7 @@ The project is built in modules. Status is marked as the build progresses.
 - [x] **Module 5 — Technical Indicators.** RSI, MACD, moving averages, Bollinger Bands, and volatility computed from price data with the ta library.
 - [x] **Module 6 — Feature Builder.** Merges indicators and a sentiment signal into one table per stock, labelled with next-day up/down movement.
 - [x] **Module 7 — Prediction Model.** Compares XGBoost, Random Forest, and Logistic Regression on a 3-day horizon with a time-based split. Best model beats baseline; absolute accuracy stays near coin-flip, the honest reality of short-term price prediction.
-- [ ] **Module 8 — Dashboard.** Streamlit interface showing sentiment and signals per stock.
+- [x] **Module 8 — Dashboard.** A dark, midnight-blue-and-gold Streamlit dashboard showing each stock's price, indicators, news sentiment, and the model's 3-day signal.
 - [ ] **Module 9 — Deploy (free).** Live public app on Streamlit Community Cloud.
 
 **Upgrades — stronger models and MLOps**
@@ -73,6 +73,8 @@ stock_sentiment_and_trading/
 │   └── feature_builder.py    Module 6 — merge features + up/down label
 ├── models/
 │   └── train_model.py        Module 7 — train and compare prediction models
+├── ui/
+│   └── dashboard.py          Module 8 — Streamlit dashboard
 ├── data/
 │   └── raw/                  Collected data (kept local, not committed)
 ├── requirements.txt
