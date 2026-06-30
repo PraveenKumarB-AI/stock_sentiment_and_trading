@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+slowapi
+pandas
+scikit-learn
+xgboost
+python-dotenv
